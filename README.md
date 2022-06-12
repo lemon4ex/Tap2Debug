@@ -7,7 +7,12 @@ tap shortcut to debug app (support iOS11/12/13/14 and A12)
 
 #### or
 
-- install from cydia repo:https://repo.byteage.com
+- install from cydia repo https://repo.byteage.com
+
+### Screenshots
+
+![](screenshots/iOS13.png)
+![](screenshots/iOS13show.png)
 
 ### Credit
 
