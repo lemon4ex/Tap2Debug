@@ -1,5 +1,5 @@
 # Tap2Debug
-tap shortcut to debug app (support iOS11/12/13 and A12)
+tap shortcut to debug app (support iOS11/12/13/14 and A12)
 
 ### Install
 
