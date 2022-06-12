@@ -2,7 +2,7 @@ Package: com.byteage.tap2debug
 Name: Tap2Debug
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: tap shortcut to debug app, support iOS11/12/13 and A12.
+Description: tap shortcut to debug app, support iOS11/12/13/14 and A12.
 Maintainer: h4ck1n
 Author: xia0 & dodo
 Section: Tweaks
